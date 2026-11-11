@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="../tests/IrrigaFacil.TesteUnitario/IrrigaFacil.TesteUnitario.csproj" />
+  <Project Path="IrrigaFacil.Domain/IrrigaFacil.Domain.csproj" />
+</Solution>
